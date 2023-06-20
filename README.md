@@ -4,13 +4,16 @@ Books, exercises and interesting documentation for the ICPC
 ## [Carpeta Drive](https://drive.google.com/drive/folders/1yTx4WoGNI-yCQ-uV3jkvLXZspOuA0mdI)
 
 # **Tópicos**
-1. Matemáticas.- Relacionado con álgebra, cálculo y matemáticas discretas
-2. Teoría de números
-3. Teoría de grafos
-4. Estructuras de datos.- Relacionado con sorting, búsquedas y otros
-5. Programación dinámica (DP)
-6. Teoría de juegos
-7. Geometría
+1. Conocimientos básicos - Lógica base
+2. Matemáticas.- Relacionado con álgebra, cálculo y matemáticas discretas
+3. Teoría de números
+4. Teoría de grafos
+5. Estructuras de datos.- Relacionado con sorting, búsquedas y otros
+6. Programación dinámica (DP)
+7. Teoría de juegos
+8. Geometría
+9. Strings
+
 [Referencia](https://blog.shahjalalshohag.com/topic-list/)
 
 # **Artículos**
