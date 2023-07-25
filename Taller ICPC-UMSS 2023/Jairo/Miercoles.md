@@ -16,7 +16,7 @@
     
     Restamos los iteradores para saber la cantidad de elementos en el intervalo (resta de direcciones de memoria)
     
-    ![image-1689772120865.jpg7145116110740570327.jpg](Miercoles%2058bfdec1f94947f4a74a5644426cf830/image-1689772120865.jpg7145116110740570327.jpg)
+    ![image-1689772120865.jpg7145116110740570327.jpg](Miercoles/binariaExtrania.jpg)
     
 - Problema E
     
@@ -73,9 +73,9 @@ Es posible crear arreglos más grandes
 
 Para hallar a^(-1) mod n
 
-![image-1689779839514.jpg4792255672041944288.jpg](Miercoles%2058bfdec1f94947f4a74a5644426cf830/image-1689779839514.jpg4792255672041944288.jpg)
+![image-1689779839514.jpg4792255672041944288.jpg](Miercoles/inversoModular.jpg)
 
-![image-1689780048618.jpg4100328402453871923.jpg](Miercoles%2058bfdec1f94947f4a74a5644426cf830/image-1689780048618.jpg4100328402453871923.jpg)
+![image-1689780048618.jpg4100328402453871923.jpg](Miercoles/inversoModular2.jpg)
 
 ## Exponencial binaria modular
 
